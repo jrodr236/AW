@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="categories.xsl" type="text/xsl"?>
+<rss version="2.0">
+ <channel>
+  <title>The WebWebQuest</title>
+  <link>localhost/gotadete/plantaTe</link>
+  <description>Els gunters estan buscant pistes en els fils d'RSS</description>
+  <lastBuildDate>Mon, 07 Oct 2013 08:12:17 GMT</lastBuildDate>
+  <generator>Programacio curs 2012-13</generator>
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <!-- In Rock n' Roll Racing, there was an easter egg that you could race as Olaf. The announcer would blast out lovely lines such as "Olaf should AVOID mines!", and "Olaf unleashes HOT FURY! Send it to the teacher and be quiet. -->
+  <item>
+   <title>Ready player one?</title>
+   <description>Your story begins with the three Lost Vikings aboard Tomator's ship,
+&lt;br>and only with your help and expertise can they find their way back  
+&lt;br>home again.
+&lt;br>
+&lt;br>You must guide the Lost Vikings through the complex maze of Tomator's
+&lt;br>space craft. Use Erik's speed, Baleog's weaponry and Olaf''s defensive
+&lt;br>abilities to help return these poor lost souls to their village.
+&lt;br></description>
+   <pubDate>Mon, 07 Oct 2013 08:08:04 GMT</pubDate>
+  </item>
+  <item>
+   <title>Hope</title>
+   <description>With the acquisition complete, Tomator took his craft out of orbit.
+&lt;br>Due to a short circuit during the teleportation process, the Vikings
+&lt;br>materialized in the corridors of Tomator's ship rather than in his  
+&lt;br>specimen room. Now the Vikings only hope to return home is the use of
+&lt;br>their skills and the strange vortices that can carry them through time
+&lt;br>and space.</description>
+   <pubDate>Mon, 07 Oct 2013 08:07:33 GMT</pubDate>
+  </item>
+  <item>
+   <title>Surprise awaking</title>
+   <description>Erik, the swiftest of the vikings, was awakened suddenly to find
+&lt;br>himself suspended above his bed and being pulled upward. Despite his
+&lt;br>efforts to resist, he was drawn through the top of his hut and into 
+&lt;br>the night sky. Next, Olaf the Stout and Baleog the Fierce experienced
+&lt;br>the same fate as they too were pulled from their beds, toward the    
+&lt;br>strange metallic object in the sky.
+&lt;br></description>
+   <pubDate>Mon, 07 Oct 2013 08:07:04 GMT</pubDate>
+  </item>
+  <item>
+   <title>Captives</title>
+   <description>Tomator brought his craft closer to the ground, trying to locate the
+&lt;br>three specimens that he had previously chosen. He had noticed them  
+&lt;br>earlier, when they appeared to be the victors of some primitive ritual
+&lt;br>of skill and strength. After a few minutes, Tomator's computer located
+&lt;br>the selected humans and began to teleport his unsuspecting captives   
+&lt;br>aboard his ship.
+&lt;br></description>
+   <pubDate>Mon, 07 Oct 2013 08:06:00 GMT</pubDate>
+  </item>
+  <item>
+   <title>The brothers</title>
+   <description>As Olaf the Stout, Baleog the Fierce and Erik the Swift walked home
+&lt;br>from the feast they were still bragging over their triumphs in the 
+&lt;br>hunt. When each brother had finished claiming that he was a better 
+&lt;br>hunter than the other two, they retired to their cottages, oblivious
+&lt;br>to the strange flying object that had appeared directly over their  
+&lt;br>village.</description>
+   <pubDate>Mon, 07 Oct 2013 08:05:22 GMT</pubDate>
+  </item>
+  <item>
+   <title>Tomator</title>
+   <description>Meanwhile, the infamous intergalactic zookeeper, Tomator, piloted his
+&lt;br>space craft to Earth through a fiery vortex that appeared high above
+&lt;br>the fjords of the Baltic Sea. Tomator was sure that he could find  
+&lt;br>adequate specimens for his zoo on this tiny planet. He commanded his  
+&lt;br>ship to begin its descent as he made preparations to go on a hunt of  
+&lt;br>his own.
+&lt;br></description>
+   <pubDate>Mon, 07 Oct 2013 08:04:53 GMT</pubDate>
+  </item>
+  <item>
+   <title>The hunt</title>
+   <description>The most anticipated event of the day was the hunt. In this 
+&lt;br>competition, the best huntsmen from the village venture into the      
+&lt;br>wilderness to see who could catch the most game for the evening's     
+&lt;br>feast. By noon, all the participants had arrived at the  starting
+&lt;br>point of the hunt, except for three vikings who lived just outside the
+&lt;br>village. Since their tardiness was nothing new, the decision was made
+&lt;br>to start the hunt without them. Upon hearing the horn, indicating the
+&lt;br>beginning of the competition, Olaf the Stout    and his two buddies,
+&lt;br>Baleog the Fierce    and Erik the Swift   simply rushed into the    
+&lt;br>forest to prevent the others from having too great of a head start. </description>
+   <pubDate>Mon, 07 Oct 2013 08:04:18 GMT</pubDate>
+  </item>
+  <item>
+   <title>Origin</title>
+   <description>It was a day that the members of the Viking village looked forward to
+&lt;br>every year. On this day everyone in the village celebrated the fall  
+&lt;br>harvest with contests of bravery and skill throughout the afternoon
+&lt;br>followed by a grand feast at dusk.</description>
+   <pubDate>Mon, 07 Oct 2013 08:03:32 GMT</pubDate>
+  </item>
+ </channel>
+</rss>

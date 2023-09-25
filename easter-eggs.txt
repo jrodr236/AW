@@ -1,0 +1,117 @@
+ous de pàscua
+-------------
+1. a la guia de sintaxi de la wiki (codi 33454)
+2. al fitxer webwebweb.rss
+3. a referencies.html, en lletra blanca sobre fons blanc
+4. a tasques.html, només amb la pantalla estreta
+5. al highscores, amb el mario i el luigi, cap a tasca-bollo
+
+Les puntuacions seràn: 100.000 1r, 60.000 següents.
+
+El millor de cada classe tindrà 1 punt més a la nota.
+
+
+encriptar
+---------
+http://www.cuwhois.com/herramienta-seo-encriptar-html.php
+
+
+easter eggs aconseguits
+-----------------------
+* Dropbox
+NO! INSTITUT JORDI CAMPS MUNTADA - jcamps@infobosccoma.net (campsjordi9@gmail.com) - A - 15/09/2016 13:00 - MAIL
+100.000 ANDRÉS FUENTES GONZÁLEZ - afuentes@infobosccoma.net (andresfugo@gmail.com) - A - 15/09/2016 15:55 MAIL
+60.000  DAVID COROMINA SOLÀ - dcoromina@infobosccoma.net (dcoromina@gmail.com) - A - 15/09/2016 16:03 MAIL
+60.000  POL LÓPEZ MONTENEGRO - plopez@infobosccoma.net (katurro12@gmail.com) - A - 15/09/2016 16:17 MAIL
+100.000 ADRIÀ SERRA CASADO - aserra@infobosccoma.net - B - 20/09/2016 15:19 MAIL
+60.000  ÀLEX TURON DEL POZO - aturon@infobosccoma.net (aleext6@gmail.com) - B 20/09/2016 15:20 MAIL
+60.000  LUÍS ORTIZ CANTOS - lortiz@infobosccoma.net - B - 26/09/2016 8:57 MAIL
+60.000  ADRIÀ LOZANO LÓPEZ  alozano@infobosccoma.net - B - 27/09/2016 17:33
+
+
+* Josep
+100.000 DAVID COROMINA SOLÀ - dcoromina@infobosccoma.net - 15/09/2016 16:10 MAIL
+60.000  POL LÓPEZ MONTENEGRO - plopez@infobosccoma.net (katurro12@gmail.com) - A - 15/09/2016 16:31 MAIL
+100.000 ADRIÀ SERRA CASADO - aserra@infobosccoma.net - B - 20/09/2016 15:43 MAIL
+60.000  DOVYDAS KUZMICKAS - dkuzmickas@infobosccoma.net - A - 20/09/2016 16:41 MAIL
+60.000  LLUC COLLELLDEMONT PALOMÉ - lcollelldemont@infobosccoma.net - A - 21/09/2016 11:21 MAIL
+60.000  ANDRÉS FUENTES GONZÁLEZ - afuentes@infobosccoma.net - A - 21/09/2016 11:22 MAIL
+60.000  JORDI CAMPS MUNTADA - jcamps@infobosccoma.net (campsjordi9@gmail.com) - A - 22/09/2016 10:58 - MAIL
+60.000  ADRIÀ LOZANO LÓPEZ  alozano@infobosccoma.net - B - 28/09/2016 1:19
+60.000  JUAN PABLO MOLDÓN QUINTERO <jmoldon@infobosccoma.net> - B - 18/10
+60.000 MARC ERENA MARTÍNEZ <merena@infobosccoma.net> - A - 20/10
+60.000 	LUÍS ORTIZ CANTOS <lortiz@infobosccoma.net> - b - 16/11
+
+* Tasques
+100.000 POL LÓPEZ MONTENEGRO - plopez@infobosccoma.net - A - 15/09/2016 16:57 MAIL
+100.000 ADRIÀ SERRA CASADO - aserra@infobosccoma.net - B - 20/09/2016 15:58 MAIL
+60.000  ADRIÀ LOZANO LÓPEZ  alozano@infobosccoma.net - B - 28/09/2016 1:19
+60.000  JUAN PABLO MOLDÓN QUINTERO <jmoldon@infobosccoma.net> - B - 18/10
+
+* Rss
+100.000 ADRIÀ SERRA CASADO - aserra@infobosccoma.net - B - 20/09/2016 16:16 MAIL
+100.000 POL LÓPEZ MONTENEGRO - plopez@infobosccoma.net - A - 20/09/2016 16:20 MAIL
+60.000  ADRIÀ LOZANO LÓPEZ  alozano@infobosccoma.net - B - 28/09/2016 1:19
+60.000 DOVYDAS KUZMICKAS <dkuzmickas@infobosccoma.net> - A - 19/10
+60.000 JORDI CAMPS MUNTADA - jcamps@infobosccoma.net  - A - 20/10
+60.000  JUAN PABLO MOLDÓN QUINTERO <jmoldon@infobosccoma.net> - B - 18/10
+
+
+* Wiki
+100.000 ADRIÀ SERRA CASADO - aserra@infobosccoma.net - B - 20/09/2016 16:41 MAIL
+100.000 POL LÓPEZ MONTENEGRO - plopez@infobosccoma.net - A - 21/09/2016 22:14 MAIL
+60.000  ADRIÀ LOZANO LÓPEZ  alozano@infobosccoma.net - B - 28/09/2016 1:19
+60.000 LUÍS ORTIZ CANTOS <lortiz@infobosccoma.net> - B - 11/10/2016
+60.000 JORDI CAMPS MUNTADA - jcamps@infobosccoma.net - A - 11/10/2016
+60.000 FRANCESC DIAZ MARTINEZ <fiaz@infobosccoma.net> - A - 13/10
+60.000 MARC ERENA MARTÍNEZ <merena@infobosccoma.net> - A - 13/10
+60.000 ANDRÉS FUENTES GONZÁLEZ - afuentes@infobosccoma.net - A - 13/10
+60.000 DOVYDAS KUZMICKAS <dkuzmickas@infobosccoma.net> - A - 13/10
+60.000 CARLES CORDÓN GODINA <ccordon@infobosccoma.net> - A - 13/10
+60.000 ALEIX SOLER MARTÍ <asoler@infobosccoma.net> - B - 18/10
+60.000 ANDRÉS FUENTES GONZÁLEZ <afuentes@infobosccoma.net> - A - 19/10
+60.000 DAVID COROMINA SOLÀ - dcoromina@infobosccoma.net - A - 20/10
+60.000  JUAN PABLO MOLDÓN QUINTERO <jmoldon@infobosccoma.net> - B - 18/10
+
+
+
+<p>1. 500.000 ASC &nbsp; - &nbsp; BDJTRW<!--(ADRIÀ SERRA CASADO)--></p>
+<p>2. 420.000 PLM &nbsp; - &nbsp; ADJTRW<!--(POL LÓPEZ MONTENEGRO)--></p>
+<p>3. 300.000 ALL &nbsp; - &nbsp; BDJTRW<!--(ADRIÀ LOZANO LÓPEZ)--></p>
+<p>4. 280.000 AFG &nbsp; - &nbsp; ADJ__W<!--(ANDRÉS FUENTES GONZÁLEZ)--></p>
+<p>5. 240.000 JMQ &nbsp; - &nbsp; B_JTRW<!--(JUAN PABLO MOLDÓN QUINTERO)--></p>
+<p>6. 220.000 DCS &nbsp; - &nbsp; ADJ__W<!--(DAVID COROMINA SOLÀ)--></p>
+<p>7. 180.000 DK_ &nbsp; - &nbsp; A_J_RW<!--(DOVYDAS KUZMICKAS)--></p>
+<p>8. 180.000 JCM &nbsp; - &nbsp; A_J_RW<!--(JORDI CAMPS MUNTADA)--></p>
+<p>9. 180.000 LOC &nbsp; - &nbsp; BDJ__W<!--(LUÍS ORTIZ CANTOS)--></p>
+<p>10. 120.000 MEM &nbsp; - &nbsp; A_J__W<!--(MARC ERENA MARTÍNEZ)--></p>
+<p>11. 60.000 ATP &nbsp; - &nbsp; BD____<!--(ÀLEX TURON DEL POZO)--></p>
+<p>12. 60.000 LCP &nbsp; - &nbsp; A_J___<!--(LLUC COLLELLDEMONT PALOMÉ)--></p>
+<p>13. 60.000 FDM &nbsp; - &nbsp; A____W<!--(FRANCESC DIAZ MARTINEZ)--></p>
+<p>14. 60.000 CCG &nbsp; - &nbsp; A____W<!--(CARLES CORDÓN GODINA)--></p>
+<p>15. 60.000 ASM &nbsp; - &nbsp; B____W<!--(ALEIX SOLER MARTÍ)--></p>
+
+
+<p>4. 000.000 JDH &nbsp; - &nbsp; ____</p>
+<p>5. 000.000 JDH &nbsp; - &nbsp; ____</p>
+
+
+
+mails
+-----
+
+
+Apreciat XXX.
+
+Felicitats! Has estat el primer en aconseguir l'easter egg "XXX". Això et reportarà 100.000 punts.
+
+En breu aquesta puntuació es veurà reflectida al rànquing.
+
+oooooo
+
+Apreciat XXX.
+
+Felicitats! Has aconseguir l'easter egg "XXX". Això et reportarà 60.000 punts.
+
+En breu aquesta puntuació es veurà reflectida al rànquing.
+

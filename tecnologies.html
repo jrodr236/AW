@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>The WebQuest</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+    <link rel="icon" type="image/png" href="./favicon.png" />
+
+    <style type="text/css">
+        @font-face {
+            font-family: 'future';
+            src: url('fonts/future.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'arcade';
+            src: url('fonts/arcade.ttf') format('truetype');
+        }
+        h1, h2, h3, nav, kbd, code, .well, .alert {
+            font-family: 'future';
+        }
+        .ranking {
+            font-family: 'arcade';
+	    font-size:20px;
+        }
+        body {
+           font-size:18px;
+           padding-top: 70px;
+           padding-bottom: 70px;
+        }
+        .navbar-brand {
+           font-size:19px;
+        }
+        pre {
+           font-size:17px;
+        }
+    </style>
+
+  </head>
+  <body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+	<span class="sr-only">The WebQuest</span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">The WebQuest</a>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Procés<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="objectiu.html">Objectiu</a></li>
+              <li><a href="tecnologies.html">Tecnologies</a></li>
+              <li><a href="mecanoscrit.html">Mecanoscrit</a></li>
+              <li><a href="avaluacio.html">Avaluació</a></li>
+            </ul>
+          </a>
+        </li>
+	<li><a href="tasques.html">Tasques</a></li>
+	<li><a href="referencies.html">Refèrencies</a></li>
+	<li><a href="highscores.html">High Scores</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- inici part específica -->
+
+
+    <h1>Tecnologies</h1>
+
+<div class="well">
+Les cerques per a entendre les antigues tecnologies d'<em>Internet</em> estan sent molt complicades. L'equip de <code>Gunters</code> amb habilitats hackers més avançades ens han enviat unes informacions, trobades en algun indret fosc de <kbd>O&nbsp;A&nbsp;S&nbsp;I&nbsp;S</kbd>, abans de desaparèixer per sempre...
+</div>
+
+<p>La forma en la que estaven organitzades aquestes <em>aplicacions web</em>, és a dir, la seva <strong>arquitectura</strong>, era molt estranya. Aquests programes s'executaven entre dos llocs diferents: el <strong>navegador</strong> i els <strong>servidors</strong>.</p>
+
+<br />
+
+<img src="images/gui.jpg" class="img-responsive center-block" />
+
+<br />
+
+<ul>
+<li><strong>Navegador:</strong> actua com a <em>client</em> i realitza peticions sol·licitant recursos als
+servidors web. Quan fa una petició a un servidor i li respon enviant-li un
+recurs, el mostra a l’usuari.</li>
+<li><strong>Servidor web:</strong> rep peticions de <em>clients</em> (navegadors) i respon a aquestes
+peticions enviant un recurs o notificant un error si el recurs no existeix.</li>
+</ul>
+
+<hr />
+
+<p>A més, per a la comunicació entre aquests dos elements, s'utilitzaven el protocol <strong>HTTP</strong> i el format <strong>HTML</strong>:</p>
+
+
+
+    <div class="row">
+        <div class="col-sm-6">
+          <img src="images/http_diagram.png" class="img-responsive center-block" />
+          <br />
+        </div><!-- /.col -->
+        <div class="col-sm-6">
+          <img src="images/code_snip.gif" class="img-responsive center-block" />
+          <br />
+        </div><!-- /.col -->
+      </div><!-- /.row -->
+
+<ul>
+<li><strong>HTTP:</strong> protocol basat en TCP/IP que s’utilitza perquè el
+navegador realitzi les peticions als servidor web i aquests li responguin.</li>
+<li><strong>HTML</strong>: format bàsic dels documents de la web. Es tracta d’un format
+de text basat en etiquetes que permet estructurar el contingut de la pàgina.</li>
+</ul>
+
+
+
+
+
+
+<!-- final part específica -->
+
+<nav class="navbar navbar-inverse navbar-fixed-bottom">
+  <div class="container-fluid">
+    <p class="navbar-text">I. Bosc de la Coma >>> SMX >>> AW >>> UF1</p>
+  </div>
+</nav>
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

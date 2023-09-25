@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>The WebQuest</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+    <link rel="icon" type="image/png" href="./favicon.png" />
+
+    <style type="text/css">
+        @font-face {
+            font-family: 'future';
+            src: url('fonts/future.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'arcade';
+            src: url('fonts/arcade.ttf') format('truetype');
+        }
+        h1, h2, h3, nav, kbd, code, .well, .alert {
+            font-family: 'future';
+        }
+        .ranking {
+            font-family: 'arcade';
+	    font-size:20px;
+        }
+        body {
+           font-size:18px;
+           padding-top: 70px;
+           padding-bottom: 70px;
+        }
+        .navbar-brand {
+           font-size:19px;
+        }
+        pre {
+           font-size:17px;
+        }
+    </style>
+
+  </head>
+  <body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+	<span class="sr-only">The WebQuest</span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">The WebQuest</a>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Procés<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="objectiu.html">Objectiu</a></li>
+              <li><a href="tecnologies.html">Tecnologies</a></li>
+              <li><a href="mecanoscrit.html">Mecanoscrit</a></li>
+              <li><a href="avaluacio.html">Avaluació</a></li>
+            </ul>
+          </a>
+        </li>
+	<li><a href="tasques.html">Tasques</a></li>
+	<li><a href="referencies.html">Refèrencies</a></li>
+	<li><a href="highscores.html">High Scores</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- inici part específica -->
+
+
+    <div class="row">
+        <div class="col-lg-2">
+          <img class="img-circle center-block" src="images/Wikipedia-logo-v2.svg.png" alt="Wikis" width="140" height="140">
+        </div>
+        <div class="col-lg-10">
+
+<h1>Wikis</h1>
+
+<div class="well">
+La missió tindrà èxit si es documenta tot el procés amb un important rigor. Cal saber conservar tots els resultats
+de les investigacions.
+
+<br />
+
+La Wiki va ser un dels èxits de la cultura <em>web 2.0</em>. El coneixement de la humanitat, lluny de
+caure en mans d'uns pocs, es va registrar minuciosament en milers de wikis que van inundar el planeta. Ens atrevim
+a afirmar que si el coneixement de la humanitat a sobreviscut a la gran crisi és en part gràcies a l'allau de wikis
+que s'han pogut recopilar en el benaurat ordinador que emmagatzemava tota la web.
+
+<br />
+S'hauran de documentar totes les activitats realitzades per tal de presentar
+un informe als feus de resistència que la comunitat hacker manté a <kbd>O&nbsp;A&nbsp;S&nbsp;I&nbsp;S</kbd> , creant així el...
+
+</div>
+
+<div class="alert alert-info">Mecanoscrit de la Fi de la Web.</div>
+
+
+<h2>Instruccions</h2>
+
+<ul>
+<li>Seguint les instruccions del professor, instal·la la rèplica del servidor web propi, si encara no ho has fet. Configura-la i mostra la <code>teva wiki</code> en funcionament.</li>
+<li>A la <kbd>wiki del mòdul</kbd> (<a href="http://192.168.0.230/wiki">accés des del centre</a> / <a href="http://aw.infobosccoma.net/wiki/">accés des de casa</a>) mira't la <em>Guia de referència ràpida</em>. Fes clic a <em>modifica</em> o <em>mostra la font</em> per a veure el codi font.</li>
+<li>A la <code>teva wiki</code>, a la portada, crea un nou enllaç anomenat <em>Guia de referència ràpida</em>. Fes clic al nou enllaç i enganxa-hi el codi font de la guia de la <kbd>wiki del mòdul</kbd>.</li>
+<li>A la <code>teva wiki</code>, fes una nova pàgina on hi hagi 3 títols, una imatge incrustada, un enllaç intern, un enllaç extern, i una ratlla horitzontal.</li>
+<li>A l'apartat <em>Històric</em>, mira els canvis que has anat fent a la portada.</li>
+</ul>
+
+
+
+<h2>Configuració de les imatges</h2>
+
+<p>Si vols afegir alguna funcionalitat nova cal que ho posis al fitxer <em>LocalSettings.php</em>. Per exemple, per poder pujar imatges cal que modifiqueu la següent línia per a que quedi així:</p>
+<pre>
+$wgEnableUploads=true;
+</pre>
+
+<p>Cal recordar que per poder afegir un arxiu cal estar <em>loginejat</em>, i llavors al menú esquerre us  apareix un enllaç que diu <em>&quot;Eines&gt;Càrrega&quot;</em> o <em>&quot;Tools&gt;Upload&quot;</em>.</p>
+
+<p>Per canviar la icona per una imatge que està a <em>images/</em>:
+<pre>
+$wgLogo=&quot;$wgScriptPath/images/ico_wiki.jpg&quot;;
+</pre>
+
+<h2>Atenció!</h2>
+
+<p>Recorda que es podrà portar a la prova objectiva un exemplar totalment fidel, és a dir, que no tingui informació extra, del...</p>
+
+<div class="alert alert-info">Mecanoscrit de la Fi de la Web.</div>
+
+
+<!-- final part específica -->
+
+<nav class="navbar navbar-inverse navbar-fixed-bottom">
+  <div class="container-fluid">
+    <p class="navbar-text">I. Bosc de la Coma >>> SMX >>> AW >>> UF1</p>
+  </div>
+</nav>
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
